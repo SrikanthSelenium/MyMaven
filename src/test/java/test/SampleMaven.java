@@ -46,7 +46,7 @@ public class SampleMaven {
 			links=d.findElements(By.tagName("a"));
 			}
 		}
-		
+		System.out.println("added in git repository");
 		d.quit();
 		
 		
